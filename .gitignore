@@ -1,0 +1,8 @@
+*__pycache__*
+*.pyc
+*.jpg
+*.h5
+*.csv
+*.lock
+levelsensor/*
+*.egg-info/*

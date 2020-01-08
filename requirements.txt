@@ -1,0 +1,9 @@
+adafruit-circuitpython-max31865
+adafruit-circuitpython-ads1x15
+adafruit-circuitpython-busdevice
+h5py
+RPI.GPIO
+matplotlib
+pyserial
+numpy
+filelock
